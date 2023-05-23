@@ -1,0 +1,8 @@
+Bạn và thầy cô hãy làm theo hướng dẫn
+Tài Khoản :admin mật khẩu :111
+tài khoản user mật khẩu :111
+
+giải nén và tạo cơ sở dữ liệu thay đổi đường dẫn sql
+
+Nhóm xin chân thành cảm ơn.
+ 
